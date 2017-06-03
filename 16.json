@@ -1,0 +1,67 @@
+{
+    "contributors": [], 
+    "creation_date": "2017/06/03 16:39:14.869 US/Eastern", 
+    "_uid": "25bf0d8e9884b7985b4821aa2305c77d", 
+    "expirationDate": "", 
+    "_content_type_id": "text/plain", 
+    "_cmfcore_marker": "yes", 
+    "id": "crit__review_state_ATSimpleStringCriterion", 
+    "subject": [], 
+    "_gopip": 0, 
+    "title": "", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "_content_type_value": "text/plain", 
+    "field": "review_state", 
+    "effective_date": "", 
+    "_atbrefs": {}, 
+    "_type": "ATSimpleStringCriterion", 
+    "description": "", 
+    "_atrefs": {}, 
+    "_layout": "atct_topic_view", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.898 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.947 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [], 
+    "_classname": "ATSimpleStringCriterion", 
+    "_userdefined_roles": [], 
+    "modification_date": "2017/06/03 16:39:15.083 US/Eastern", 
+    "_content_type": "text/html", 
+    "_zopeobject_document_src": "", 
+    "effectiveDate": "", 
+    "language": "", 
+    "rights": "", 
+    "expiration_date": "", 
+    "value": "published", 
+    "_content_type_field": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "base_view", 
+    "_permissions": {}, 
+    "_properties": [
+        [
+            "title", 
+            "Events", 
+            "string"
+        ]
+    ], 
+    "_id": "crit__review_state_ATSimpleStringCriterion", 
+    "_path": "/Plone/events/aggregator/crit__review_state_ATSimpleStringCriterion"
+}

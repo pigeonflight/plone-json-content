@@ -1,0 +1,70 @@
+{
+    "contributors": [], 
+    "_content_type_operation": "text/plain", 
+    "creation_date": "2017/06/03 16:39:14.974 US/Eastern", 
+    "_uid": "6fc34a40f7731e11b1cb3dd01072ad52", 
+    "expirationDate": "", 
+    "_content_type_id": "text/plain", 
+    "_cmfcore_marker": "yes", 
+    "operation": "less", 
+    "id": "crit__end_ATFriendlyDateCriteria", 
+    "subject": [], 
+    "_gopip": 0, 
+    "title": "", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "field": "end", 
+    "effective_date": "", 
+    "_atbrefs": {}, 
+    "_type": "ATDateCriteria", 
+    "description": "", 
+    "_atrefs": {}, 
+    "_layout": "atct_topic_view", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:15.011 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:15.037 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [], 
+    "_classname": "ATDateCriteria", 
+    "_userdefined_roles": [], 
+    "modification_date": "2017/06/03 16:39:15.083 US/Eastern", 
+    "_content_type": "text/html", 
+    "_zopeobject_document_src": "", 
+    "effectiveDate": "", 
+    "language": "", 
+    "rights": "", 
+    "expiration_date": "", 
+    "dateRange": "-", 
+    "_content_type_dateRange": "text/plain", 
+    "value": 0, 
+    "_content_type_field": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "base_view", 
+    "_permissions": {}, 
+    "_properties": [
+        [
+            "title", 
+            "Past Events", 
+            "string"
+        ]
+    ], 
+    "_id": "crit__end_ATFriendlyDateCriteria", 
+    "_path": "/Plone/events/aggregator/previous/crit__end_ATFriendlyDateCriteria"
+}

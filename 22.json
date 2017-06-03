@@ -1,0 +1,95 @@
+{
+    "contributors": [], 
+    "_content_type_text": "text/html", 
+    "text": "\r\n<p id=\"X6u9N8\">That means SpaceX\u2019s success streak of recovering its vehicles on solid ground continues. So far, all five of the company\u2019s attempts to land on land have worked just fine. Now, SpaceX is in possession of 11 Falcon 9 rockets that have flown to space and back \u2014 either by landing on ground or on one of the company\u2019s drone ships at sea.</p>\r\n<div style=\"float: right;\" class=\"c-float-right\"><q>SPACEX\u2019S SUCCESS STREAK OF RECOVERING ITS VEHICLES ON SOLID GROUND CONTINUES</q></div>\r\n<p id=\"Gi1QOp\">SpaceX\u2019s landings may seem fairly routine at this point, but the cargo the rocket was carrying&nbsp;<em>before</em>&nbsp;it landed was pretty significant \u2014 or at least, what was carrying the cargo was unique. For this flight, SpaceX used a Dragon cargo capsule that had already been to space before. The Dragon previously flew on SpaceX\u2019s fourth cargo resupply mission for NASA back in September 2014. It remained in space at the ISS for nearly a month before returning to Earth and splashing down in the Pacific Ocean. It\u2019s the first time a Dragon has been reused for a flight, making SpaceX the first private company to send a vehicle into orbit for a second time.</p>\r\n<div id=\"VVEEzE\">\r\n<div>\r\n<div class=\"p-scalable-video\"><iframe src=\"https://www.youtube.com/embed/PFoOqqSIYpw?rel=0&amp;amp;controls=2\" scrolling=\"no\"></iframe></div>\r\n</div>\r\n</div>\r\n", 
+    "creation_date": "2017/06/03 16:56:56.082 US/Eastern", 
+    "_uid": "8e8842cc6c24bbf7afcc96d4dfa0eec8", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "actor": "admin", 
+                "comments": "", 
+                "time": "2017/06/03 16:56:56.090 US/Eastern"
+            }
+        ]
+    }, 
+    "expirationDate": "None", 
+    "_content_type_id": "text/plain", 
+    "id": "space-x-falcon-9", 
+    "tableContents": false, 
+    "modification_date": "2017/06/03 16:56:56.124 US/Eastern", 
+    "title": "Space X Falcon 9 ", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "_gopip": 63, 
+    "location": "", 
+    "_content_type_title": "text/plain", 
+    "excludeFromNav": false, 
+    "presentation": false, 
+    "_type": "Document", 
+    "description": "Another one of SpaceX\u2019s Falcon 9 rockets successfully landed back on Earth this evening after launching cargo and supplies to the International Space Station. This time, the rocket touched down at the company\u2019s landing site at Cape Canaveral, Florida, called Landing Zone 1.\r\n\r\n", 
+    "_atrefs": {}, 
+    "_layout": "document_view", 
+    "subject": [], 
+    "_directly_provided": [
+        "Products.CMFEditions.interfaces.IVersioned"
+    ], 
+    "_classname": "ATDocument", 
+    "_userdefined_roles": [], 
+    "_content_type": "text/html", 
+    "_id": "space-x-falcon-9", 
+    "effectiveDate": "None", 
+    "language": "", 
+    "rights": "", 
+    "_atbrefs": {}, 
+    "_content_type_description": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "", 
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Access contents information": {
+            "acquire": false, 
+            "roles": [
+                "Contributor", 
+                "Editor", 
+                "Manager", 
+                "Owner", 
+                "Reader"
+            ]
+        }, 
+        "View": {
+            "acquire": false, 
+            "roles": [
+                "Contributor", 
+                "Editor", 
+                "Manager", 
+                "Owner", 
+                "Reader"
+            ]
+        }
+    }, 
+    "_properties": [
+        [
+            "title", 
+            "Space X Falcon 9 ", 
+            "string"
+        ]
+    ], 
+    "allowDiscussion": false, 
+    "creators": [
+        "admin"
+    ], 
+    "_path": "/Plone/space-x-falcon-9"
+}

@@ -1,0 +1,71 @@
+{
+    "contributors": [], 
+    "creation_date": "2017/06/03 16:39:14.674 US/Eastern", 
+    "_uid": "453b8d180da7f0f0986c2c84fe570a50", 
+    "expirationDate": "", 
+    "_content_type_id": "text/plain", 
+    "_cmfcore_marker": "yes", 
+    "id": "crit__effective_ATSortCriterion", 
+    "subject": [], 
+    "_gopip": 0, 
+    "title": "", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "field": "effective", 
+    "effective_date": "", 
+    "_atbrefs": {}, 
+    "reversed": true, 
+    "_type": "ATSortCriterion", 
+    "description": "", 
+    "_atrefs": {}, 
+    "_layout": "folder_summary_view", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.703 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.763 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [], 
+    "_classname": "ATSortCriterion", 
+    "_userdefined_roles": [], 
+    "modification_date": "2017/06/03 16:39:15.083 US/Eastern", 
+    "_content_type": "text/html", 
+    "_zopeobject_document_src": "", 
+    "effectiveDate": "", 
+    "language": "", 
+    "rights": "", 
+    "expiration_date": "", 
+    "_content_type_field": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "base_view", 
+    "_permissions": {}, 
+    "_properties": [
+        [
+            "title", 
+            "News", 
+            "string"
+        ], 
+        [
+            "layout", 
+            "folder_summary_view", 
+            "string"
+        ]
+    ], 
+    "_id": "crit__effective_ATSortCriterion", 
+    "_path": "/Plone/news/aggregator/crit__effective_ATSortCriterion"
+}

@@ -1,0 +1,27 @@
+{
+    "_content_type": "text/html", 
+    "_type": "Plone Site", 
+    "_gopip": 19, 
+    "_layout": "folder_listing", 
+    "_workflow_history": {}, 
+    "_directly_provided": [], 
+    "_owner": "admin", 
+    "_defaultpage": "view", 
+    "_userdefined_roles": [], 
+    "_permissions": {}, 
+    "_classname": "KSSRegistryTool", 
+    "_properties": [
+        [
+            "title", 
+            "KSS Registry", 
+            "string"
+        ]
+    ], 
+    "_id": "portal_kss", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "_path": "/Plone/portal_kss"
+}

@@ -1,0 +1,70 @@
+{
+    "contributors": [], 
+    "creation_date": "2017/06/03 16:39:14.869 US/Eastern", 
+    "_cmfcore_marker": "yes", 
+    "_uid": "bbbf1715b01979060ff7c8db77f66c39", 
+    "expirationDate": "", 
+    "_content_type_id": "text/plain", 
+    "operator": "or", 
+    "id": "crit__Type_ATPortalTypeCriterion", 
+    "subject": [], 
+    "_gopip": 0, 
+    "title": "", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "field": "Type", 
+    "effective_date": "", 
+    "_atbrefs": {}, 
+    "_type": "ATPortalTypeCriterion", 
+    "description": "", 
+    "_atrefs": {}, 
+    "_layout": "atct_topic_view", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.898 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.947 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [], 
+    "_classname": "ATPortalTypeCriterion", 
+    "_userdefined_roles": [], 
+    "modification_date": "2017/06/03 17:26:26.942 US/Eastern", 
+    "_content_type": "text/html", 
+    "_zopeobject_document_src": "", 
+    "effectiveDate": "", 
+    "language": "", 
+    "rights": "", 
+    "expiration_date": "", 
+    "value": [
+        "Event"
+    ], 
+    "_content_type_field": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "base_view", 
+    "_permissions": {}, 
+    "_properties": [
+        [
+            "title", 
+            "Events", 
+            "string"
+        ]
+    ], 
+    "_id": "crit__Type_ATPortalTypeCriterion", 
+    "_content_type_operator": "text/plain", 
+    "_path": "/Plone/events/aggregator/crit__Type_ATPortalTypeCriterion"
+}

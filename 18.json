@@ -1,0 +1,110 @@
+{
+    "contributors": [], 
+    "text": "", 
+    "creation_date": "2017/06/03 16:39:14.974 US/Eastern", 
+    "_uid": "f4d2c6e3b0ca87977c36e95cfbb12d35", 
+    "acquireCriteria": true, 
+    "expirationDate": "None", 
+    "_content_type_id": "text/plain", 
+    "itemCount": 0, 
+    "id": "previous", 
+    "subject": [], 
+    "modification_date": "2017/06/03 16:39:15.019 US/Eastern", 
+    "title": "Past Events", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "customView": false, 
+    "_gopip": 0, 
+    "location": "", 
+    "_content_type_title": "text/plain", 
+    "excludeFromNav": false, 
+    "_atbrefs": {}, 
+    "_type": "Topic", 
+    "description": "Events which have already happened.", 
+    "_atrefs": {}, 
+    "_layout": "atct_topic_view", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:15.011 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:15.037 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [], 
+    "_classname": "ATTopic", 
+    "_userdefined_roles": [], 
+    "_content_type": "text/html", 
+    "_id": "previous", 
+    "effectiveDate": "None", 
+    "language": "", 
+    "rights": "", 
+    "customViewFields": [
+        "Title"
+    ], 
+    "_content_type_description": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "", 
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Modify portal content": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Access contents information": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "List folder contents": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "View": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    }, 
+    "_properties": [
+        [
+            "title", 
+            "Past Events", 
+            "string"
+        ]
+    ], 
+    "allowDiscussion": false, 
+    "creators": [
+        "admin"
+    ], 
+    "limitNumber": false, 
+    "_path": "/Plone/events/aggregator/previous"
+}

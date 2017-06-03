@@ -1,0 +1,115 @@
+{
+    "contributors": [], 
+    "text": "", 
+    "creation_date": "2017/06/03 16:39:14.674 US/Eastern", 
+    "_uid": "667e864cd4d7781b9cab231d8b842db1", 
+    "acquireCriteria": false, 
+    "expirationDate": "None", 
+    "_content_type_id": "text/plain", 
+    "itemCount": 0, 
+    "id": "aggregator", 
+    "subject": [], 
+    "modification_date": "2017/06/03 16:39:14.710 US/Eastern", 
+    "title": "News", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "customView": false, 
+    "_gopip": 0, 
+    "location": "", 
+    "_content_type_title": "text/plain", 
+    "excludeFromNav": false, 
+    "_atbrefs": {}, 
+    "_type": "Topic", 
+    "description": "Site News", 
+    "_atrefs": {}, 
+    "_layout": "folder_summary_view", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.703 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.763 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [], 
+    "_classname": "ATTopic", 
+    "_userdefined_roles": [], 
+    "_content_type": "text/html", 
+    "_id": "aggregator", 
+    "effectiveDate": "None", 
+    "language": "", 
+    "rights": "", 
+    "customViewFields": [
+        "Title"
+    ], 
+    "_content_type_description": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "", 
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Modify portal content": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Access contents information": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "List folder contents": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "View": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    }, 
+    "_properties": [
+        [
+            "title", 
+            "News", 
+            "string"
+        ], 
+        [
+            "layout", 
+            "folder_summary_view", 
+            "string"
+        ]
+    ], 
+    "allowDiscussion": false, 
+    "creators": [
+        "admin"
+    ], 
+    "limitNumber": false, 
+    "_path": "/Plone/news/aggregator"
+}

@@ -1,0 +1,92 @@
+{
+    "contributors": [], 
+    "_content_type_text": "text/html", 
+    "text": "<p class=\"discreet\">\nIf you're seeing this instead of the web site you were expecting, the owner of\nthis web site has just installed Plone. Do not contact the Plone Team \nor the Plone mailing lists about this.\n</p>\n\n<h2>Get started</h2>\n\n<p>\nBefore you start exploring your newly created Plone site, please do the following:\n</p>\n\n<ol>\n    <li>Make sure you are logged in as an admin/manager user.\n        <span class=\"discreet\">(You should see a Site Setup link in the top right corner)</span></li>\n    <li><a href=\"@@mail-controlpanel\">Set up your mail server</a>. <span class=\"discreet\">(Plone needs a valid SMTP server to verify users and send out password reminders)</span></li>\n    <li><a href=\"@@security-controlpanel\">Decide what security level you want on your site</a>. <span class=\"discreet\">(Who can join, password policies, etc)</span></li>\n</ol>\n\n<h2>Get comfortable</h2>\n\n<p>After that, we suggest you do one or more of the following:</p>\n\n<ul>\n    <li>Find out <a class=\"link-plain\" href=\"http://plone.org/products/plone/features/3.0\" target=\"_blank\">What's new in Plone 3</a>.</li>\n    <li>Read the <a class=\"link-plain\" href=\"http://plone.org/documentation\" target=\"_blank\">documentation</a>, especially the \n        <a class=\"link-plain\" href=\"http://plone.org/documentation/how-to/read-documentation\" target=\"_blank\">What documentation should I read</a> \n        and \n        <a class=\"link-plain\" href=\"http://plone.org/documentation/faq/server-recommendations\" target=\"_blank\">Server setup recommendations</a>.\n    </li>\n    <li>Explore the <a class=\"link-plain\" href=\"http://plone.org/products\" target=\"_blank\">available add-on products</a> for Plone.</li>\n    <li>Read and/or subscribe to the <a class=\"link-plain\" href=\"http://plone.org/support\" target=\"_blank\">support forums</a>.</li>\n</ul>\n\n\n<h2>Make it your own</h2>\n\n<p>Plone has a lot of different settings that can be used to make it do what you want it to. Some examples:</p>\n\n<ul>\n    <li>\n    Try out a different theme, either pick from \n    <a href=\"@@skins-controlpanel\">the included ones</a>, or one of the \n    <a class=\"link-plain\" \n       href=\"http://plone.org/products/by-category/themes\" target=\"_blank\">available themes \n       from plone.org</a>. <span class=\"discreet\">(Make sure the theme is \n       compatible with the version of Plone you are currently using)</span>\n    </li>\n\n    <li>\n    <a href=\"@@types-controlpanel\">\n    Decide what kind of workflow you want in your site.</a>\n    <span class=\"discreet\">(The default is a\n    website-centric workflow, if you want to use Plone as a closed intranet, \n    you should adjust your workflow settings accordingly)</span>\n    </li>\n\n    <li>\n    By default, Plone uses a visual editor for content. \n    <span class=\"discreet\">(If you prefer text-based syntax and/or wiki \n        syntax, you can change this in the\n    <a href=\"@@markup-controlpanel\">markup control panel</a>)</span>\n    </li>\n\n    <li>&hellip;and many more settings are available in the \n        <a href=\"plone_control_panel\">Site Setup</a>.\n    </li>\n    \n</ul>\n\n<h2>Tell us how you use it</h2>\n\n<p>\nAre you doing something interesting with Plone? Big site deployments, \ninteresting use cases? Do you have a company that delivers Plone-based \nsolutions?\n</p>\n\n<ul>\n    <li>Add your sites to the <a class=\"link-plain\" \n        href=\"http://plone.net/sites\" target=\"_blank\">Plone site listing</a>.\n        <span class=\"discreet\">(Or see what sites are already out there!)</span>\n    </li>\n    <li>Add your company as a <a class=\"link-plain\" \n        href=\"http://plone.net/providers\" target=\"_blank\">Plone provider</a>.</li>\n    <li>Add a <a class=\"link-plain\" \n        href=\"http://plone.net/case-studies\" target=\"_blank\">case study</a> describing your \n        deployed project and customer.</li>\n</ul>\n\n<h2>Find out more about our architecture</h2>\n\n<p>\nPlone is based on the Zope application server, and uses the Python programming\nlanguage. More about these technologies:\n</p>\n\n<ul>\n<li>The <a class=\"link-plain\" href=\"http://plone.org\" target=\"_blank\">Plone open source \n    Content Management System</a> web site.</li>\n<li>The <a class=\"link-plain\" href=\"http://www.zope.org\" target=\"_blank\">Zope \n    application server</a> web site.</li>\n<li>The <a class=\"link-plain\" href=\"http://www.python.org\" target=\"_blank\">Python \n    programming language</a> web site.</li>\n</ul>\n\n<h2>Donate to the Plone Foundation</h2>\n\n<p>\nPlone is made possible only through the efforts of thousands of dedicated \nindividuals and hundreds of companies. The Plone Foundation:\n</p>\n<ul>\n    <li>&hellip;protects and promotes Plone.</li>\n    <li>&hellip;is a registered 501(c)(3) charitable organization.</li>\n    <li>&hellip;donations are tax-deductible.</li>\n    <li><a href=\"http://plone.org/foundation/foundation-donations\">Show your support!</a></li>\n</ul>\n\n<p>Thanks for using our product, we hope you like it!</p>\n\n<p>\n&mdash;\n<a class=\"link-plain\" href=\"http://plone.org/about/team\" target=\"_blank\">The Plone Team</a>\n</p>\n", 
+    "creation_date": "2007/04/02 14:28:30 US/Central", 
+    "_uid": "ccef32cdebe1e91f38f827e724458f02", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:10.695 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.563 US/Eastern"
+            }
+        ]
+    }, 
+    "expirationDate": "None", 
+    "_content_type_id": "text/plain", 
+    "id": "front-page", 
+    "tableContents": false, 
+    "modification_date": "2017/06/03 16:39:10.736 US/Eastern", 
+    "title": "Welcome to Plone", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "_gopip": 60, 
+    "location": "", 
+    "_content_type_title": "text/plain", 
+    "excludeFromNav": false, 
+    "presentation": true, 
+    "_type": "Document", 
+    "description": "Congratulations! You have successfully installed Plone.", 
+    "_atrefs": {}, 
+    "_layout": "document_view", 
+    "subject": [], 
+    "_directly_provided": [], 
+    "_classname": "ATDocument", 
+    "_userdefined_roles": [], 
+    "_content_type": "text/html", 
+    "_id": "front-page", 
+    "effectiveDate": "None", 
+    "language": "", 
+    "rights": "", 
+    "_atbrefs": {}, 
+    "_content_type_description": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "", 
+    "_permissions": {
+        "Modify portal content": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Access contents information": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "View": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    }, 
+    "_properties": [
+        [
+            "title", 
+            "Welcome to Plone", 
+            "string"
+        ]
+    ], 
+    "allowDiscussion": false, 
+    "creators": [
+        "admin"
+    ], 
+    "_path": "/Plone/front-page"
+}

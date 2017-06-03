@@ -1,0 +1,114 @@
+{
+    "locallyAllowedTypes": [
+        "Event"
+    ], 
+    "contributors": [], 
+    "creation_date": "2017/06/03 16:39:14.805 US/Eastern", 
+    "_uid": "388c9b71b2e27c569d16ad4cd9147800", 
+    "expirationDate": "None", 
+    "_content_type_id": "text/plain", 
+    "immediatelyAddableTypes": [
+        "Event"
+    ], 
+    "id": "events", 
+    "subject": [], 
+    "modification_date": "2017/06/03 16:39:14.841 US/Eastern", 
+    "title": "Events", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "_gopip": 62, 
+    "location": "", 
+    "_content_type_title": "text/plain", 
+    "excludeFromNav": false, 
+    "_atbrefs": {}, 
+    "constrainTypesMode": 1, 
+    "_type": "Large Plone Folder", 
+    "description": "Site Events", 
+    "_atrefs": {}, 
+    "_layout": "folder_listing", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.832 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "comments": "", 
+                "actor": "admin", 
+                "time": "2017/06/03 16:39:14.921 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [], 
+    "_classname": "ATBTreeFolder", 
+    "_userdefined_roles": [], 
+    "_content_type": "text/plain", 
+    "_id": "events", 
+    "effectiveDate": "None", 
+    "language": "", 
+    "rights": "", 
+    "_content_type_description": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "aggregator", 
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Modify portal content": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Access contents information": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "List folder contents": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "View": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    }, 
+    "_properties": [
+        [
+            "title", 
+            "Events", 
+            "string"
+        ], 
+        [
+            "default_page", 
+            "aggregator", 
+            "string"
+        ]
+    ], 
+    "allowDiscussion": false, 
+    "creators": [
+        "admin"
+    ], 
+    "_path": "/Plone/events"
+}

@@ -1,0 +1,108 @@
+{
+    "startDate": "2017/08/03 17:55:00 US/Eastern", 
+    "endDate": "2017/08/03 17:55:00 US/Eastern", 
+    "contributors": [], 
+    "_content_type_text": "text/html", 
+    "text": "\r\n<p>The bill for the abolition of slavery in the British colonies received the royal assent on August 28,1838. It stated:</p>\r\n<div class=\"pullquote\">Be it enacted, that all and every one of the persons who on the first day of August one thousand eight hundred and thirty four, shall be holden in slavery within such British colony as aforesaid, shall, upon and from and after the said first day of August, one thousand eight hundred and thirty-four, become and be to all intents and purposes free and discharged from all manner of slavery, and shall be absolutely and forever manumitted.</div>\r\n<p>The passage of this bill in the British Parliament in England enabled approximately 311,000 enslaved Africans in Jamaica and hundreds of thousands more across the colonies the freedom for which many of their predecessors had fought and died. However, the Africans did not receive full freedom until four years later, as all slaves over six years old were subjected to a mandatory six-year period of apprenticeship. The ex-slaves would work - without pay - for their former masters for three-quarters of the week (40 hours), in exchange for lodging, food, clothing. medical attendance and grounds on which they could grow their own provisions. They could also, if they chose, hire themselves out for additional wages during the remaining quarter of the week. With this money, an ex-slave could then buy his freedom.&nbsp;</p>\r\n", 
+    "eventUrl": "", 
+    "creation_date": "2017/06/03 16:55:36.970 US/Eastern", 
+    "contactEmail": "", 
+    "_uid": "a2383cebc69b09ad55fe536d2889e6cd", 
+    "expirationDate": "None", 
+    "contactName": "", 
+    "_content_type_id": "text/plain", 
+    "contactPhone": "", 
+    "id": "emancipation-day", 
+    "subject": [], 
+    "attendees": [], 
+    "effectiveDate": "2017/06/03 16:55:41.558 US/Eastern", 
+    "title": "Emancipation Day", 
+    "_ac_local_roles": {
+        "admin": [
+            "Owner"
+        ]
+    }, 
+    "_gopip": 0, 
+    "location": "", 
+    "eventType": [], 
+    "_content_type_title": "text/plain", 
+    "excludeFromNav": false, 
+    "_atbrefs": {}, 
+    "_type": "Event", 
+    "description": "August 1, 1834 marked a special day for Africans in British colonies as it was the day they received freedom from slavery. In Jamaica, the Emancipation Declaration was read from the steps of the Old Kings House in Spanish Town, St Catherine, the country's capital at the time. \r\n\r\n", 
+    "_atrefs": {}, 
+    "_layout": "event_view", 
+    "_workflow_history": {
+        "simple_publication_workflow": [
+            {
+                "action": null, 
+                "review_state": "private", 
+                "actor": "admin", 
+                "comments": "", 
+                "time": "2017/06/03 16:55:36.982 US/Eastern"
+            }, 
+            {
+                "action": "publish", 
+                "review_state": "published", 
+                "actor": "admin", 
+                "comments": "", 
+                "time": "2017/06/03 16:55:41.583 US/Eastern"
+            }
+        ]
+    }, 
+    "_directly_provided": [
+        "Products.CMFEditions.interfaces.IVersioned"
+    ], 
+    "_classname": "ATEvent", 
+    "_userdefined_roles": [], 
+    "_content_type": "text/html", 
+    "_id": "emancipation-day", 
+    "modification_date": "2017/06/03 16:55:41.559 US/Eastern", 
+    "language": "", 
+    "rights": "", 
+    "_content_type_description": "text/plain", 
+    "_owner": "admin", 
+    "_defaultpage": "", 
+    "_permissions": {
+        "Change portal events": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Modify portal content": {
+            "acquire": false, 
+            "roles": [
+                "Editor", 
+                "Manager", 
+                "Owner"
+            ]
+        }, 
+        "Access contents information": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }, 
+        "View": {
+            "acquire": false, 
+            "roles": [
+                "Anonymous"
+            ]
+        }
+    }, 
+    "_properties": [
+        [
+            "title", 
+            "Emancipation Day", 
+            "string"
+        ]
+    ], 
+    "allowDiscussion": false, 
+    "creators": [
+        "admin"
+    ], 
+    "_path": "/Plone/events/emancipation-day"
+}
